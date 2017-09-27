@@ -2,3 +2,9 @@ blue
 red
 white
 diamond
+purple
+green
+black
+maroon
+ok
+
