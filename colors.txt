@@ -4,3 +4,5 @@ white
 purple
 green
 black
+maroon
+ok
