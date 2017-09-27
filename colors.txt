@@ -1,5 +1,8 @@
 blue
 red
 white
+purple
+green
+black
 maroon
 ok
